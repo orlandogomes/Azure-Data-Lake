@@ -1,5 +1,5 @@
 {
-  "name": "Processing Big data with Azure Data Lake",
+  "name": "Processing Big Data with Azure Data Lake",
   "tagline": "Course files for the Microsoft course Processing Big Data with Azure Data Lake",
   "body": "# Course Files\r\n* [Setup Guide](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/Setup%20Guide.pdf)\r\n* [Lab Files](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/ADL-Labs.zip)\r\n* [Lab 1 - Getting Started with Azure Data Lake](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/Lab%201%20-%20Getting%20Started%20with%20Azure%20Data%20Lake.pdf)\r\n* [Lab 2 - Using a U-SQL Catalog](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/Lab%202%20-%20Using%20a%20U-SQL%20Catalog.pdf)\r\n* [Lab 3 - Using C# in U-SQL](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/Lab%203%20-%20Using%20CSharp%20in%20U-SQL.pdf)\r\n* [Lab 4 -Monitoring U-SQL Jobs](https://github.com/MicrosoftLearning/Azure-Data-Lake/raw/master/Labs/Lab%204%20-%20Monitoring%20U-SQL%20Execution.pdf)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
